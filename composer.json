@@ -1,0 +1,12 @@
+{
+    "name": "a1111/hexlet-php",
+    "description": "композер который создал изучая главу настройки окружения",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry",
+            "email": "brahmanchik@gmail.com"
+        }
+    ],
+    "require": {}
+}
